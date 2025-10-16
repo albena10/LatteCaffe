@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+.container1{
+    padding: 20px 0 20px 0;
+    background: #FFFFFF;
+}
+.ul1{
+    display: flex;
+    list-style: none;
+    color: #1F1F1F;
+    font-size: 15px;
+    font-family:  'inter', sans-serif;
+    column-gap: 20px;
+    justify-content: center;
+}
+.ul2{
+    display: flex;
+    list-style: none;
+    color: #1F1F1F;
+    font-size: 15px;
+    font-family:  'inter', sans-serif;
+    padding-top: 5px;
+    column-gap: 20px;
+    justify-content: center;
+}
+.ul3{
+    display: flex;
+    list-style: none;
+    color: #6D6B67;
+    font-size: 13px;
+    font-family:  'inter', sans-serif;
+    padding-top: 10px;
+    column-gap: 20px;
+    text-align: center;
+    justify-content: center;
+}

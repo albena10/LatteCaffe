@@ -6,7 +6,7 @@ const Sec1 = () => {
     return (
         <section className="sec1">
             <div className="sec1-box">
-                <img src={img_1} alt=""/>
+                <img className="imgCafe" src={img_1} alt=""/>
             </div>
         </section>
     );

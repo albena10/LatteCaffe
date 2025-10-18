@@ -18,3 +18,27 @@
     font-family: 'inter', sans-serif;
     padding-top: 50px;
 }
+@media (max-width: 480px){
+    .sec6-box{
+        background: #4A2B33;
+        display: flex;
+        flex-direction: column;
+        padding: 0 40px 20px 40px;
+    }
+    .p1{
+        color: #D27487;
+        font-size: 45px;
+        font-family: 'Azeret Mono', sans-serif;
+        letter-spacing: 1px;
+        padding-top: 20px;
+        margin: 0;
+    }
+    .p2{
+        color: #D27487;
+        font-size: 12px;
+        font-family: 'inter', sans-serif;
+        padding-top: 20px;
+        margin: 0;
+        line-height: 20px;
+    }
+}

@@ -1,7 +1,18 @@
 .sec1{
     background: #4A2B33;
 }
-.sec1-box img{
+.imgCafe{
     margin: 0 0 15px 75px;
     width: 1150px;
+}
+@media (max-width: 480px) {
+    .imgCafe{
+        max-width: 100%;
+        width: 380px;
+        margin: -5px 0 10px 48px;
+    }
+    .container{
+        background: white;
+        box-sizing: border-box;
+    }
 }

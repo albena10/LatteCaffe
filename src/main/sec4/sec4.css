@@ -19,3 +19,38 @@
     color: #FFFFFF;
     text-align: center;
 }
+@media (max-width: 480px){
+    .sec4-box{
+        display: flex;
+        flex-direction: column;
+        background: #AA9E54;
+        padding: 20px 0 0 10px;
+        gap: 0;
+    }
+    .sec4-box h6{
+        font-weight: bold;
+        font-family: 'Azeret Mono', sans-serif;
+        font-size: 14px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+    }
+    .sec4-box p{
+        font-family: 'inter', sans-serif;
+        font-size: 22px;
+        color: #FFFFFF;
+        text-align: center;
+        padding-top: 10px;
+        margin: 0;
+    }
+    .sec4-left{
+        padding-top: 20px;
+    }
+    .sec4-center{
+        padding-top: 35px;
+    }
+    .sec4-right{
+        padding: 35px 0 30px 0;
+    }
+}
